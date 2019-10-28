@@ -43,6 +43,5 @@
     <br>
     <br>
     <p>Du har nå publisert websiden din, og du kan åpne den med å trykke på linken under Git-Hub pages.</p>
-
 </body>
 </html>
