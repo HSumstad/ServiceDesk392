@@ -26,7 +26,8 @@
         <h3>3.Laste opp koden</h3>
         <p>Neste du må gjør er å trykke på "creating a new file".</p>
         <p>Også kaller du den for "index.md"</p>
-        <img src="Creatinganewfile.png" width="400" height="300"<br>
+        <img src="Creatinganewfile.png" width="400" height="300">
+    <br>
     <br>
     <h3>4.Start et prosjekt</h3>
     <p>Det neste du skal gjøre er å kopiere hele koden din, og så skal du lime den inn under fila di, index.md.</p>
