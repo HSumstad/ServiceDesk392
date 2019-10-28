@@ -14,31 +14,25 @@
         <p>Etter du har fylt inn infoboksene må du verifisere mailen din.</p>
     <br>
     <br>
-
-    <h3>2.Repository</h3> 
+<h3>2.Repository</h3> 
         <p>Det du skal gjøre, er å lage et repository. Her blir alle filene til nettsiden din lagret.</p>
         <p>Trykk på "New" oppe i høyre hjørne for å lage et repository.</p>
         <img src="Newrepository.png" alt="repository" width="400" height="200">
         <p>Etter det gir du det et navn. Det kan hete hva som helst.</p>
         <p>Så velger du om det skal være offentlig eller privat.</p>
         <img src="Createnewrepository.png" alt="Createrepository" width="400" height="300">
-    
     <br>
     <br>
         <h3>3.Laste opp koden</h3>
         <p>Neste du må gjør er å trykke på "creating a new file".</p>
         <p>Også kaller du den for "index.md"</p>
-        <img src="Creatinganewfile.png" width="400" height="300"
-
-    
-    <br>
+        <img src="Creatinganewfile.png" width="400" height="300"<br>
     <br>
     <h3>4.Start et prosjekt</h3>
     <p>Det neste du skal gjøre er å kopiere hele koden din, og så skal du lime den inn under fila di, index.md.</p>
     <p>Etter det blar du videre ned og trykker på commit new file. 
     <br>
     <br>      
-    
     <h3>5.Last opp websiden på Git-Hub</h3>
     <p>Trykk inn på repositoryen din og gå på settings.</p>
     <img src="Settingsgithub.png" width="400" height="200">
